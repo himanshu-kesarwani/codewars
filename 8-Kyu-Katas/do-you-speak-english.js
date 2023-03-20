@@ -1,0 +1,1 @@
+const spEng = (sentence) => sentence.match(/english/gi) ? true : false
