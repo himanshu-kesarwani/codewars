@@ -1,0 +1,1 @@
+const toCsvText = array => array.join('\n')
