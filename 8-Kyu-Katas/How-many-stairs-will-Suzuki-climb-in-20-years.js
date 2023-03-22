@@ -1,0 +1,1 @@
+const stairsIn20 = s => s.reduce((total, weekday) => weekday.reduce((acc, curr) => acc + curr, 0) + total, 0) * 20
